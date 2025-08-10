@@ -1,5 +1,9 @@
 {
   "functions": {
-    "api/catalogo.js": { "runtime": "nodejs18.x" }
+    "api/**/*.js": {
+      "runtime": "nodejs18.x"
+    }
   }
 }
+
+
